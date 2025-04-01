@@ -1,2 +1,4 @@
 # Zomato-Pareto-Analysis
-I developed a comprehensive project on Excel, creating multiple Dashboard and tables to analyze the data. This Pareto Analysis to identify the most common customer complaints and determine which restaurants are underperforming based on customer feedback to improve restaurant service quality and customer satisfaction.
+## Project Objective
+Zomato aims to identify underperforming restaurants and the most common complaint types using Pareto Analysis. Based on the results, you will create a performance dashboard that highlights key areas for improvement, helping the company prioritize actions to enhance restaurant performance and customer satisfaction.
+## Dataset Used
